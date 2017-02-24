@@ -18,7 +18,7 @@ public class DataStructuresLecture3 {
     // 3 points
     static int Q2(HashMap<String, Integer> inputMap) {
 
-        // TODO: Return the sum (addition) of all the elements of inputMap
+        // TODO: Return the sum (addition) of all the values of inputMap
 
 
         return 2;
